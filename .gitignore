@@ -1,0 +1,8 @@
+.env
+__pycache__/
+node_modules/
+rag_eval/frontend/node_modules/
+rag_eval/backend/data/rageval.db
+rag_eval/backend/data/uploads/
+rag_eval/backend/data/datasets/
+evaluate/evaluation_report.json

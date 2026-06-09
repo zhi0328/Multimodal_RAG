@@ -1,0 +1,46 @@
+# ===== Web UI =====
+gradio==5.31.0
+
+# ===== LangChain 生态 =====
+langchain-core==1.4.2
+langchain-openai==1.1.12
+langchain-text-splitters==1.1.1
+langchain-experimental==0.4.1
+langgraph==1.2.4
+
+# ===== LLM / Embedding 客户端 =====
+openai==2.29.0
+zhipuai==2.1.5.20250825
+dashscope==1.25.17
+sentence-transformers==5.4.0
+
+# ===== 向量数据库 =====
+pymilvus==2.6.0
+
+# ===== RAG 评估 =====
+ragas==0.3.5
+
+# ===== 文档解析 =====
+PyMuPDF==1.27.2.2
+Pillow==11.3.0
+
+# ===== Web 框架 (rag_eval) =====
+fastapi==0.135.2
+uvicorn==0.42.0
+python-multipart==0.0.22
+aiofiles==24.1.0
+
+# ===== NLP / 检索 =====
+jieba==0.42.1
+rank-bm25==0.2.2
+
+# ===== Redis（短期会话状态持久化）=====
+redis==7.4.1
+
+# ===== 工具库 =====
+pydantic==2.11.10
+numpy==2.4.3
+requests==2.32.5
+python-dotenv==1.2.2
+loguru==0.7.3
+tqdm==4.67.3
